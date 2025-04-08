@@ -15,17 +15,13 @@ img{
     padding-left: 30px;
     padding-right: 30px;
     display: block;
-    margin: 0 auto;
-    
+    margin: 0 auto;    
 }
 
-
-
-#text{
+.text{
     color: aqua;
     font-family: "Libre Baskerville", serif;
     font-weight: 400;
     font-style: normal;
     text-align: center;
 }
-
